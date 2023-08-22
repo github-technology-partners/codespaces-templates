@@ -21,16 +21,22 @@ GitHub will provide a self service test suite to validate storage product's S3-c
         <th>Platform</th>
         <th>Partner</th>
         <th>Link</th>
+        <th>Description</th>
+        <th>Notes</th>
       </tr>
       <tr>
         <td>Android</td>
         <td>GitHub</td>
         <td><a href="https://github.com/github-technology-partners/template-android">Android</a></td>
+        <td> This is a repository with a pre-built Android environment</td>
+        <td> Please add any changes through PRs. </td>
       </tr>
       <tr>
         <td>Variety</td>
         <td>GitHub</td>
         <td><a href="https://github.com/codespaces">GitHub Templates</a></td>
+        <td> GitHub Codespaces come with 9 pre-configured templates</td>
+        <td> Notes </td>
       </tr>
       </div>
     </table>
