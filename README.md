@@ -15,16 +15,11 @@ GitHub will provide a self service test suite to validate storage product's S3-c
 
 # Codespace Templates 
 
-<TABLE BORDER=1 HEIGHT=200>
+<TABLE BORDER=1>
 <TR>
-<TD>Red</TD>
-<TD>Green</TD>
+<TD>Android</TD>
+<TD HEIGHT=100>Green</TD>
 <TD>Blue</TD>
-</TR>
-<TR>
-<TD>Orange</TD>
-<TD>Yellow</TD>
-<TD>Purple</TD>
 </TR>
 </TABLE>
 
