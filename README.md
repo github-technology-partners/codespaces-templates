@@ -15,11 +15,11 @@ GitHub will provide a self service test suite to validate storage product's S3-c
 
 # Codespace Templates 
 
-<table border="1">
+<table border="1" style="background-color:#33475b>
   <tr> 
     <td>Template 1</td>
     <td>Template 2</td>
-    <td>RTemplate 3</td>
+    <td>Template 3</td>
   </tr>
 
 </table>
