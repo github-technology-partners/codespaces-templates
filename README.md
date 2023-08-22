@@ -18,7 +18,7 @@ GitHub will provide a self service test suite to validate storage product's S3-c
 <div class="row">
     <table>
       <tr>
-        <th>Platform</th>
+        <th>Name</th>
         <th>Partner</th>
         <th>Link</th>
         <th>Description</th>
