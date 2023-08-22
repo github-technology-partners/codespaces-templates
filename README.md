@@ -28,13 +28,13 @@ GitHub will provide a self service test suite to validate storage product's S3-c
         <td><a href="https://github.com/github-technology-partners/template-android">Android</a></td>
       </tr>
       <tr>
-        <td>Eve</td>
-        <td>Jackson</td>
-        <td>94</td>
+        <td>Variety</td>
+        <td>GitHub</td>
+        <td><a href="https://github.com/codespaces">GitHub Templates</a></td>
       </tr>
-  
+      </div>
     </table>
-</div>
+
 
 
 
