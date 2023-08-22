@@ -32,11 +32,7 @@ GitHub will provide a self service test suite to validate storage product's S3-c
         <td>Jackson</td>
         <td>94</td>
       </tr>
-      <tr>
-        <td>Adam</td>
-        <td>Johnson</td>
-        <td>67</td>
-      </tr>
+  
     </table>
 </div>
 
