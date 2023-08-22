@@ -16,7 +16,6 @@ GitHub will provide a self service test suite to validate storage product's S3-c
 # Codespace Templates 
 
 <div class="row">
-  <div class="column">
     <table>
       <tr>
         <th>First Name</th>
@@ -39,8 +38,8 @@ GitHub will provide a self service test suite to validate storage product's S3-c
         <td>67</td>
       </tr>
     </table>
-  </div>
-  <div class="column">
+</div>
+<div class="row">
     <table>
       <tr>
         <th>First Name</th>
@@ -63,7 +62,6 @@ GitHub will provide a self service test suite to validate storage product's S3-c
         <td>67</td>
       </tr>
     </table>
-  </div>
 </div>
 
 
