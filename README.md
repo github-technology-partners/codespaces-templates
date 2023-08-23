@@ -6,7 +6,9 @@ Codespace Templates is a solution designed to make your development workflow mor
 <BR>
  <BR>
 
-Please note that these templates are created by GitHub Technology Partners (not by GitHub). 
+Please note that these templates are created by GitHub Technology Partners or GitHub (for Technology Partner templates, note that GitHub does not own or create them)
+
+
 <BR>
  <BR>
 
