@@ -37,10 +37,11 @@ Disclaimer: GitHub Partners conduct all tests and self-report the data in this r
         <td> GitHub Codespaces come with 9 pre-configured templates</td>
         <td> Notes </td>
       </tr>
-      </div>
+ </div>
     </table>
 
-
-
-
+ <br><br>
+# Requirements:
+- Partners must be members of the [GitHub Technology Partner Program](https://partner.github.com/technology-partners) to participate.
+- Partners must maintain user documentation.
 - Partners must commit to support joint users/customers.
