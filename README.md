@@ -16,7 +16,7 @@ To learn more about Codespaces, click [here](https://github.com/features/codespa
 <br><br>
 
 
-**Disclaimer:** GitHub Partners conduct all tests and self-report the data in this repository. GitHub does not independently verify the data, but expects that partners provide it in good faith. GitHub makes no express or implied representations, guarantees or warranties concerning GHES Storage Partners or their storage product(s). The data is provided as-is.
+**Disclaimer:** GitHub Partners conduct all tests and self-report the data in this repository. GitHub does not independently verify the data, but expects that partners provide it in good faith. GitHub makes no express or implied representations, guarantees or warranties concerning GitHub Partner Templates. The data is provided as-is.
 <BR><BR>
 # Codespace Templates 
 
