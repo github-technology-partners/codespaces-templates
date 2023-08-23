@@ -28,14 +28,65 @@ Disclaimer: GitHub Partners conduct all tests and self-report the data in this r
         <td>GitHub</td>
         <td><a href="https://github.com/github-technology-partners/template-android">Android</a></td>
         <td> This is a repository with a pre-built Android environment</td>
-        <td> Please add any changes through PRs. </td>
+        <td>  </td>
       </tr>
       <tr>
-        <td>Variety</td>
+        <td>Blank</td>
         <td>GitHub</td>
-        <td><a href="https://github.com/codespaces">GitHub Templates</a></td>
-        <td> GitHub Codespaces come with 9 pre-configured templates</td>
-        <td> Notes </td>
+        <td><a href="https://github.com/codespaces-blank">Blank Templates</a></td>
+        <td> Start with a blank canvas or import any packages you need.</td>
+        <td>  </td>
+      </tr>
+        <tr>
+        <td>React</td>
+        <td>GitHub</td>
+        <td><a href="https://github.com/codespaces-react">React Templates</a></td>
+        <td> A full-stack web framework for building dynamic websites that deliver a rich user experience.</td>
+        <td>  </td>
+      </tr>
+       <tr>
+        <td>Jupyter Notebook</td>
+        <td>GitHub</td>
+        <td><a href="https://github.com/github/codespaces-jupyter">Jupyter Notebooks</a></td>
+        <td>JupyterLab is the latest web-based interactive development environment for notebooks, code, and data.</td>
+        <td>  </td>
+      </tr>
+       <tr>
+        <td>Express</td>
+        <td>GitHub</td>
+        <td><a href="https://github.com/github/codespaces-express">Express</a></td>
+        <td> Express is a minimal and flexible Node.js web application framework.</td>
+        <td>  </td>
+      </tr>
+      <tr>
+        <td>Next.js</td>
+        <td>GitHub</td>
+        <td><a href="https://github.com/github/codespaces-nextjs">Express</a></td>
+        <td> A Next.js template to start your development</td>
+        <td>  </td>
+      </tr>
+        <tr>
+        <td>Django</td>
+        <td>GitHub</td>
+        <td><a href="https://github.com/github/codespaces-django">Django</a></td>
+        <td> Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.</td>
+        <td>  </td>
+      </tr>
+       <tr>
+        <td>Flask</td>
+        <td>GitHub</td>
+        <td><a href="https://github.com/github/codespaces-flask">Flask</a></td>
+        <td> Flask is a lightweight web application framework.
+        </td>
+        <td>  </td>
+      </tr>
+       </tr>
+       <tr>
+        <td>Preact</td>
+        <td>GitHub</td>
+        <td><a href="https://github.com/github/codespaces-preact">Preact</a></td>
+        <td> A fast 3kB alternative to React with the same modern API.</td>
+        <td>  </td>
       </tr>
  </div>
     </table>
