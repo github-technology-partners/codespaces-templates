@@ -67,7 +67,7 @@ To learn more about Codespaces, click [here](https://github.com/features/codespa
       <tr>
         <td>Next.js</td>
         <td>GitHub</td>
-        <td><a href="https://github.com/github/codespaces-nextjs">Express</a></td>
+        <td><a href="https://github.com/github/codespaces-nextjs">Next.js</a></td>
         <td> A Next.js template to start your development</td>
         <td>  </td>
       </tr>
@@ -98,7 +98,8 @@ To learn more about Codespaces, click [here](https://github.com/features/codespa
     </table>
 
  <br><br>
-# Requirements:
+# Partner Contribution Requirements:
 - Partners must be members of the [GitHub Technology Partner Program](https://partner.github.com/technology-partners) to participate.
 - Partners must maintain user documentation.
 - Partners must commit to support joint users/customers.
+- To submit a Codespace Template proposal for consideration, please email us ####.
