@@ -11,7 +11,7 @@ To learn more about Codespaces, click [here](https://github.com/features/codespa
 <br><br>
 
 
-**Disclaimer:** GitHub Partners conduct all tests and self-report the Codespace Templates in this repository. GitHub does not independently verify the data, but expects that partners provide it in good faith. GitHub makes no express or implied representations, guarantees or warranties concerning GitHub Partner Codespace Templates.
+**Disclaimer:** GitHub Partners conduct all tests and self-report the Codespace Templates in this repository. GitHub does not independently verify the Codespace Templates, but expects that partners provide it in good faith. GitHub makes no express or implied representations, guarantees or warranties concerning GitHub Partner Codespace Templates.
 <BR><BR>
 # Codespace Templates 
 
