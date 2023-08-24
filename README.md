@@ -6,17 +6,12 @@ Codespace Templates is a solution designed to make your development workflow mor
 <BR>
  <BR>
 
-Please note that these templates are created by GitHub Technology Partners or GitHub (for Technology Partner templates, note that GitHub does not own or create them)
-
-
-<BR>
- <BR>
 
 To learn more about Codespaces, click [here](https://github.com/features/codespaces)
 <br><br>
 
 
-**Disclaimer:** GitHub Partners conduct all tests and self-report the data in this repository. GitHub does not independently verify the data, but expects that partners provide it in good faith. GitHub makes no express or implied representations, guarantees or warranties concerning GitHub Partner Codespace Templates. The data is provided as-is.
+**Disclaimer:** GitHub Partners conduct all tests and self-report the Codespace Templates in this repository. GitHub does not independently verify the data, but expects that partners provide it in good faith. GitHub makes no express or implied representations, guarantees or warranties concerning GitHub Partner Codespace Templates.
 <BR><BR>
 # Codespace Templates 
 
