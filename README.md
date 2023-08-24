@@ -102,4 +102,4 @@ To learn more about Codespaces, click [here](https://github.com/features/codespa
 - Partners must be members of the [GitHub Technology Partner Program](https://partner.github.com/technology-partners) to participate.
 - Partners must maintain user documentation.
 - Partners must commit to support joint users/customers.
-- To submit a Codespace Template proposal for consideration, please email us ####.
+- To submit a Codespace Template proposal for consideration, please email us at stephanieleo@github.com
