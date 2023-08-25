@@ -41,7 +41,7 @@ To learn more about Codespaces, click [here](https://github.com/features/codespa
         <tr>
         <td>React</td>
         <td>GitHub</td>
-        <td><a href="https://github.com/codespaces-react">React Templates</a></td>
+        <td><a href="https://github.com/github/codespaces-react">React Templates</a></td>
         <td> A full-stack web framework for building dynamic websites that deliver a rich user experience.</td>
         <td>  </td>
       </tr>
