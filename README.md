@@ -12,6 +12,7 @@ To learn more about Codespaces, click [here](https://github.com/features/codespa
 |Name|Partner|Link|Description|Notes|
 |-|-|-|-|-|
 |Android|GitHub|[Android](https://github.com/github-technology-partners/template-android)|This is a repository with a pre-built Android environment||
+|Java|GitHub|[Java](https://github.com/sneha-natekar/template-test-java)|This is a repository with a pre-built Java environment||
 |Blank|GitHub|[Blank Templates](https://github.com/github/codespaces-blank)|Start with a blank canvas or import any packages you need.||
 |React|GitHub|[React Templates](https://github.com/github/codespaces-react)|A full-stack web framework for building dynamic websites that deliver a rich user experience.||
 |Jupyter Notebook|GitHub|[Jupyter Notebooks](https://github.com/github/codespaces-jupyter)|JupyterLab is the latest web-based interactive development environment for notebooks, code, and data.||
